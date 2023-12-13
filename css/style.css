@@ -7,7 +7,7 @@ body{
 
 
 .btnn {
-    background-color: rgb(59, 60, 58);
+    background: linear-gradient(90deg,#20adbe 0,#43b388);
      /* display:inline-block; */
         border-radius: 45.25rem;
         width: 250px;
@@ -20,7 +20,7 @@ body{
       
      }
 .btnn:hover { 
-    background-color:#facb21;
+    background-color:#3ae5eb;
      display:inline-block;
      color: black;
                 }
@@ -55,6 +55,8 @@ header i{
 }
 
 header i:hover{
+   
+
     color:#facb21;
 
 
@@ -73,6 +75,26 @@ header{
     margin-top: 7rem;
 }
 
+
+nav a{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+nav a:hover{
+    background: linear-gradient(90deg,#20adbe 0,#43b388);
+    border-radius: 45.25rem;
+   
+    
+    
+}
+
+
+/* nav .active{
+    background: linear-gradient(90deg,#20adbe 0,#43b388);
+    border-radius: 45.25rem;
+
+} */
 
 
 
