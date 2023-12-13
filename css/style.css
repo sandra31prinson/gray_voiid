@@ -60,6 +60,10 @@ header i:hover{
 
 }
 
+header{
+    margin-top: 3.9rem;
+}
+
 
 
 /* banner section */
@@ -69,10 +73,6 @@ header i:hover{
     margin-top: 7rem;
 }
 
-nav{
-
-    margin-top: 4rem;
-}
 
 
 
